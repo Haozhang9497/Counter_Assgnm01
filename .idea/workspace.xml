@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="007d5ff4-4059-43ac-8253-58639a85cfc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAssign01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterConcrete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterConcreteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterModelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2e6rllwhQmioGTOiQEq7LMGkHMr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Counter.executor": "Run",
+    "Application.CounterConcrete.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CounterConcreteTest.executor": "Run",
+    "JUnit.CounterConcreteTest.testWithFourEntersInput.executor": "Run",
+    "JUnit.CounterConcreteTest.testWithNormalInput.executor": "Run",
+    "JUnit.CounterModelTest$ProcessInputTest.executor": "Run",
+    "JUnit.CounterModelTest$ProcessInputTest.testWithNoneInput.executor": "Run",
+    "JUnit.CounterModelTest.executor": "Run",
+    "JUnit.CounterModelTest.testWithFourEnters.executor": "Run",
+    "JUnit.CounterModelTest.testWithNoneInput.executor": "Run",
+    "JUnit.CounterModelTest.testWithNormalInput.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhang\IdeaProjects\JavaAssign01\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CounterModelTest">
+    <configuration name="CounterConcrete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CounterConcrete" />
+      <module name="JavaAssign01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterConcreteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAssign01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CounterConcreteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterConcreteTest.testWithFourEntersInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAssign01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CounterConcreteTest" />
+      <option name="METHOD_NAME" value="testWithFourEntersInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterConcreteTest.testWithNormalInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAssign01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CounterConcreteTest" />
+      <option name="METHOD_NAME" value="testWithNormalInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAssign01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CounterModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CounterModelTest" />
+        <item itemvalue="JUnit.CounterConcreteTest.testWithFourEntersInput" />
+        <item itemvalue="JUnit.CounterConcreteTest" />
+        <item itemvalue="JUnit.CounterConcreteTest.testWithNormalInput" />
+        <item itemvalue="Application.CounterConcrete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="007d5ff4-4059-43ac-8253-58639a85cfc3" name="Changes" comment="" />
+      <created>1711236023863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711236023863</updated>
+    </task>
+    <servers />
+  </component>
+</project>
